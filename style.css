@@ -2,14 +2,16 @@ header {
   background: red;
 }
 
-main{disply: grid;
+main{
+  disply: grid;
   grid-template-areas:
   'aside article article'
   'aside footer footer';
   grid-gap: 30px;
   }
 
-aside{grid-area: aside;
+aside{
+grid-area: aside;
   background: red;
 }
 
