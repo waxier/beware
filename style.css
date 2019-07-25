@@ -1,26 +1,24 @@
 header {
-  background: red;
+    background: red;
 }
 
-main{
-  disply: grid;
-  grid-template-areas:
-  'aside article article'
-  'aside footer footer';
-  grid-gap: 30px;
-  }
+main {
+    disply: grid;
+    grid-template-areas: 'aside article article' 'aside footer footer';
+    grid-gap: 30px;
+}
 
-aside{
-grid-area: aside;
-  background: red;
+aside {
+    grid-area: aside;
+    background: red;
 }
 
 article {
-  color: white;
-  background: blue;
+    color: white;
+    background: blue;
 }
 
-footer{
-  grid-area: footer;
-  bckground: blue:
+footer {
+    grid-area: footer;
+    bckground: blue:
 }
