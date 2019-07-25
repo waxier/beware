@@ -4,6 +4,8 @@ header {
     background-image: url('https://cdn6.newsnation.in/images/2019/01/18/aliens-195077386_6.jpg')
     background-size: cover;
     background-attachment:fixed;
+    background-position: center;
+    height: 100%;
 }
 
 main {
