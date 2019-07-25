@@ -2,7 +2,22 @@ header {
   background: red;
 }
 
+main{disply: grid;
+  'aside article article'
+  'aside footer footer';
+  grid-gap: 30px;
+  }
+
+aside{grid-area: aside;
+  background: red;
+}
+
 article {
   color: white;
   background: blue;
+}
+
+footer{
+  grid-area: footer;
+  bckground: blue:
 }
