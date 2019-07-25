@@ -17,15 +17,15 @@ main {
 
 aside {
     grid-area: aside;
-    background: red;
+    background: black;
 }
 
 article {
     grid-area: article;
-    background: blue;
+    background: black;
 }
 
 footer {
     grid-area: footer;
-    background: blue;
+    background: black;
 }
