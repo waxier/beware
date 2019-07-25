@@ -14,7 +14,7 @@ aside {
 }
 
 article {
-    color: white;
+    grid area: article;
     background: blue;
 }
 
